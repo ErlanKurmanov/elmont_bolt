@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elmont.com.kg/sitemap.xml
